@@ -1,0 +1,5 @@
+Basic software requirements to run this code are:
+
+1.	Microsoft Visual Studio Code
+2.	Python Language Compiler
+3.	Python Modules - libretranslatepy, PyPDF2, fpdf
